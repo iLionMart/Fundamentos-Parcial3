@@ -1,6 +1,6 @@
 import java.util.Scanner;
 
-public class Ejercicio3 {
+public class main {
     public static void main(String[] args) {
 
         int contador = 1;
