@@ -7,7 +7,7 @@ public class main {
 
         for(int j = 1; j <= 10; j++){
            for(int i = 1; i <= 10; i++){
-              resultado= numero * i;
+              resultado= j * i;
               System.out.println(resultado);
            }
            System.out.println();
