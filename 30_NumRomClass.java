@@ -3,34 +3,24 @@ import javax.swing.*;
 public class main {
     public static void main(String[] args) {
 
-        String numeroromano = JOptionPane.showInputDialog("Introduzca un número menor a 4000 y se convertira a romano");
+        String numeroromano = JOptionPane.showInputDialog("Introduzca un número menor a 10000 y se convertira a romano");
         int numrom = Integer.valueOf(numeroromano);
 
-        int contador = 0;
         int milar = 0;
         int centena = 0;
         int decena = 0;
         int unidad = 0;
 
-        if (numrom > 4000) {
+        if (numrom > 10000) {
             System.out.println("Te dije que menor >:(");
-        } else if (numrom >= 1000){
+        } else {
             milar = numrom / 1000;
             centena = (numrom / 100) - (milar * 10);
             decena = (numrom / 10) - (centena * 10) - (milar * 100);
             unidad = numrom % 10;
-        } else if (numrom >= 100){
-            centena = (numrom / 100);
-            decena = (numrom / 10) - (centena * 10);
-            unidad = numrom % 10;
-        } else if (numrom >= 10) {
-            decena = (numrom / 10);
-            unidad = numrom % 10;
-        } else if (numrom >= 1){
-            unidad = numrom;
         }
 
-        while(milar > 0){
+        while (milar > 0) {
             System.out.print("M");
             milar -= 1;
         }
