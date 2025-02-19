@@ -1,4 +1,4 @@
-public class main {
+public class ArrayInvertir {
     public static void main(String[] args) {
 
         int uni = 0;
