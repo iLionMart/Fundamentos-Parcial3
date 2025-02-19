@@ -1,6 +1,6 @@
 import java.util.Scanner;
 
-public class main {
+public class PiramideCiclo2 {
     public static void main(String[] args) {
 
         int contador = 1;
