@@ -1,6 +1,6 @@
 import java.util.Scanner;
 
-public class main {
+public class ConversorUnidades {
     public static void main (String[] args) {
 
         double resultado = 0;
