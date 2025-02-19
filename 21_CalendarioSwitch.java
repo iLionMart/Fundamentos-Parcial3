@@ -1,6 +1,6 @@
 import java.util.Scanner;
 
-public class main {
+public class CalendarioSwitch {
     public static void main (String[] args) {
 
         String nomes = null;
