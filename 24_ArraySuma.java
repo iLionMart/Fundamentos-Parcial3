@@ -1,4 +1,4 @@
-public class main {
+public class ArraySuma {
     public static void main(String[] args) {
 
         int resultado = 0;
