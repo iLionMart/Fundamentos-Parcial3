@@ -1,4 +1,4 @@
-public class main {
+public class Dado {
     public static void main(String[] args) {
 
         int Dado = 0;
