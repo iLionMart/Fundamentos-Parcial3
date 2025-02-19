@@ -1,6 +1,6 @@
 import javax.swing.*;
 
-public class main {
+public class ArrayBusqueda {
     public static void main(String[] args) {
 
         String busqueda = JOptionPane.showInputDialog("Introduzca un número y se buscara");
