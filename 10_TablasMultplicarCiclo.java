@@ -1,6 +1,4 @@
-import java.util.Scanner;
-
-public class main {
+public class TablasMultplicarCiclo {
     public static void main(String[] args) {
 
         int resultado = 0;
