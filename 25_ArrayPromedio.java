@@ -1,4 +1,4 @@
-public class ArregloPromedio {
+public class ArrayPromedio {
     public static void main(String[] args) {
             int resultado = 0;
             int[] cal = new int[5];
