@@ -1,6 +1,6 @@
 import java.util.Scanner;
 
-public class main {
+public class ContadorMultiplo {
     public static void main(String[] args) {
 
         System.out.println("Introduce el numero limite para calcular");
