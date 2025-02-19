@@ -1,6 +1,6 @@
 import java.util.Scanner;
 
-public class main {
+public class Limites {
     public static void main(String[] args) {
 
         int limenor = 0, limayor = 0, numero = 0, suma = 0, verificador = 0;
