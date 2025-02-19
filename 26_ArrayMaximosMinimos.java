@@ -1,4 +1,4 @@
-public class main {
+public class ArrayMaximosMinimos {
     public static void main(String[] args) {
 
         int min = 0;
