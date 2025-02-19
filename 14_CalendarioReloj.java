@@ -1,6 +1,6 @@
 import java.util.Scanner;
 
-public class main {
+public class CalendarioReloj {
     public static void main(String[] args) {
 
         String dianom = null;
