@@ -1,6 +1,6 @@
 import java.util.Scanner;
 
-public class main {
+public class SemanaSwitch {
     public static void main (String[] args) {
 
         String nomdia = null;
