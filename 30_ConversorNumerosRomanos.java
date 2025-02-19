@@ -1,6 +1,6 @@
 import javax.swing.*;
 
-public class main {
+public class ConversorNumerosRomanos {
     public static void main(String[] args) {
 
         String numeroromano = JOptionPane.showInputDialog("Introduzca un número menor a 10000 y se convertira a romano");
