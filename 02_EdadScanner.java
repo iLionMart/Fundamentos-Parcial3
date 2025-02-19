@@ -1,6 +1,6 @@
 import java.util.Scanner;
 
-public class main {
+public class EdadScanner {
     public static void main(String[] args) {
 
         int numero = 1;
