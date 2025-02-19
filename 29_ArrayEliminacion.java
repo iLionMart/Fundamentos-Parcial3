@@ -1,4 +1,4 @@
-public class main {
+public class ArrayEliminacion {
     public static void main(String[] args) {
 
         int aprobado = 0;
