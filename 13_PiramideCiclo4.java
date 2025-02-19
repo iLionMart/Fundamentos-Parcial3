@@ -1,6 +1,6 @@
 import java.util.Scanner;
 
-public class main {
+public class PiramideCiclo4 {
     public static void main(String[] args) {
 
         System.out.println("Este programa pintará una pirámide");
