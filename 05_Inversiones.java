@@ -1,6 +1,6 @@
 import java.util.Scanner;
 
-public class main {
+public class Inversiones {
     public static void main(String[] args) {
 
         int contador = 1;
