@@ -1,6 +1,6 @@
 import java.util.Scanner;
 
-public class main {
+public class Password {
     public static void main(String[] args) {
 
         Scanner Teclado = new Scanner (System.in);
